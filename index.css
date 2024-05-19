@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: red;
+/*     background-color: red; */
     text-align: center;
     background-image: url('img/medtectopo.png');
     background-size: cover;
